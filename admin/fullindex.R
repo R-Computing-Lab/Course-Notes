@@ -12,7 +12,7 @@ make_hyperlink = function(myurl,mytext=myurl) {
 
 df_web=list.files(path="docs/", '[.]html$', recursive=TRUE)
 
-df_slides=list.files(path="E:\\Dropbox\\Lab\\Teaching\\DS4P\\ds4p-materials\\slides", '[.]html$', recursive=TRUE)
+df_slides=list.files(path="E:\\Dropbox\\Lab\\Teaching\\CN4P\\ds4p-materials\\slides", '[.]html$', recursive=TRUE)
 
 df_docs=c(df_web,df_slides)
 

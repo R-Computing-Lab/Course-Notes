@@ -1,5 +1,5 @@
 
-<!--DS4P Links-->
+<!--CN4P Links-->
 [ds4p-web]: https://datascience4psych.github.io/DataScience4Psych
 [ds4p-git]: https://github.com/DataScience4Psych/DataScience4Psych
 [ds4p-slides]: https://github.com/DataScience4Psych/slides
