@@ -5,7 +5,13 @@
 .RData
 .Rhistory
 .Rproj.user
+_bookdown_files/*
 
-
+docs/*.md
 # Specific keeps
 !.gitkeep
+
+
+docs/reference-keys.txt
+admin/0000_author.Rmd
+CN4P.md
